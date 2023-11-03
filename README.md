@@ -25,6 +25,8 @@ Winchalk.start("Start is log level 7. I output in bright green.");
 Winchalk.debug("Debug is log level 8. I output in gray.");
 Winchalk.silly("Silly is log level 9. I output in magenta.");
 ```
+This results in the following output to console:\
+![A sample output of the Winchalk console colorizer given the example input.](sample.png)
 
 By default, Winchalk log level is set to 'silly', meaning it logs everything. For more information on log levels, see the [Winston documentation](https://github.com/winstonjs/winston#readme).
 
