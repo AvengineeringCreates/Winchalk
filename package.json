@@ -1,6 +1,6 @@
 {
   "name": "winchalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "commonjs",
   "description": "An npm module that combines Winston and chalk for a yummy and colorful console logger.",
   "keywords": [
