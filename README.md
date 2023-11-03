@@ -31,5 +31,5 @@ This results in the following output to console:\
 By default, Winchalk log level is set to 'silly', meaning it logs everything. For more information on log levels, see the [Winston documentation](https://github.com/winstonjs/winston#readme).
 
 ## Tests
-You can see what the outputs look like in your own console by running the test.
+You can see what the outputs look like in your own console by running the test.\
 `$ npm run test`
