@@ -5,6 +5,11 @@ Winchalk is just a Winston logger colorized with chalk. It is small and simple.
 
 I made this module for myself, and though it's easy to customize your own Winston logger I thought I would let it out into the world since I use it all the time!
 
+## Installation from command line
+```bash
+npm i winchalk
+```
+
 ## Documentation
 
 Winchalk exports a Winston logger. For Winston documentation, read here:
